@@ -13,8 +13,8 @@ Pins and Wiring Diagrams
 --------
 The library pre-defined the pin used for data transfer with the SD card.
 
-![PinMap](https://github.com/littlesi789/Music_Player_Arduino_SDCard/blob/master/pinMap.PNG | width=100)
-![PinMap](https://github.com/littlesi789/Music_Player_Arduino_SDCard/blob/master/wiring_diagram.jpg | width=100)
+![PinMap](https://github.com/littlesi789/Music_Player_Arduino_SDCard/blob/master/pinMap.PNG){:height="50%" width="50%"}
+![PinMap](https://github.com/littlesi789/Music_Player_Arduino_SDCard/blob/master/wiring_diagram.jpg){:height="50%" width="50%"}
 
 The output PWM signal for music can be defined in the main Arduino program.
 It is default to pin 9.
