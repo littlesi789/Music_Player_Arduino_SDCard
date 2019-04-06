@@ -9,7 +9,14 @@ The code is based on Arduino UNO and existing library:
 
 You can also find this library (.zip) in [*lib/ folder*](https://github.com/littlesi789/Music_Player_Arduino_SDCard/tree/master/lib).
 
-The code ([player.ino](https://github.com/littlesi789/Music_Player_Arduino_SDCard/blob/master/player/player.ino)) is modified based on the example code.
+The code used for this project ([player.ino](https://github.com/littlesi789/Music_Player_Arduino_SDCard/blob/master/player/player.ino)) is modified based on the example code.
+
+The Aduio files supported should be:
+..* Foramt: WAV files,
+..* Bit Resolution: 8-bit, 
+..* Sampling Rate: 8-32khz Sample Rate, 
+..* Audio Channels: mono.
+
 Pins and Wiring Diagrams
 --------
 The library pre-defined the pin used for data transfer with the SD card.
