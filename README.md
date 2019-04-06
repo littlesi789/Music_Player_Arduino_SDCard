@@ -1,4 +1,4 @@
-**This is part of the project of EECS 373 **:laughing:
+**This is part of the project of EECS 373** :laughing:
 
 Based on existing library:
 
