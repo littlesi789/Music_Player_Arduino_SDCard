@@ -13,13 +13,15 @@ The code used for this project ([player.ino](https://github.com/littlesi789/Musi
 
 The Aduio files supported should be:
 
-..* Foramt: WAV files,
+⋅⋅* Foramt: WAV files,
 
-..* Bit Resolution: 8-bit, 
+⋅⋅* Bit Resolution: 8-bit, 
 
-..* Sampling Rate: 8-32khz Sample Rate, 
+⋅⋅* Sampling Rate: 8-32khz Sample Rate, 
 
-..* Audio Channels: mono.
+⋅⋅* Audio Channels: mono.
+
+[Quick Link to an Online Audio Converter](https://audio.online-convert.com/convert-to-wav)
 
 Pins and Wiring Diagrams
 --------
