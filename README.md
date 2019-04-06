@@ -3,7 +3,7 @@ An Arduino Music Player from SD Card
 
 **This is part of the project of EECS 373** :laughing:
 -----------
-The code is based on Arduino UNO and existing library:
+This part of the project is based on Arduino UNO and existing library:
 
    * [TMRpcm](https://github.com/TMRh20/TMRpcm)
 
