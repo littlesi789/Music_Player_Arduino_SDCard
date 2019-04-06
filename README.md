@@ -1,4 +1,8 @@
+An Arduino Music Player from SD Card
+===========
+
 **This is part of the project of EECS 373** :laughing:
+-----------
 
 Based on existing library:
 
@@ -6,6 +10,9 @@ Based on existing library:
 
 You can find this library (.zip) in [*lib/ folder*](https://github.com/littlesi789/Music_Player_Arduino_SDCard/tree/master/lib).
 
-The code is based on Arduino UNO.
+The code is based on Arduino UNO. The library pre-defined the pin used for data transfer with the SD card.
+--------
 
 ![PinMap](https://github.com/littlesi789/Music_Player_Arduino_SDCard/blob/master/pinMap.PNG)
+![PinMap](https://github.com/littlesi789/Music_Player_Arduino_SDCard/blob/master/wiring_diagram.jpg)
+
