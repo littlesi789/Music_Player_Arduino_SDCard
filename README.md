@@ -12,8 +12,6 @@ You can find this library (.zip) in [*lib/ folder*](https://github.com/littlesi7
 Pins and Wiring Diagrams
 --------
 The library pre-defined the pin used for data transfer with the SD card.
-
-![PinMap](https://github.com/littlesi789/Music_Player_Arduino_SDCard/blob/master/pinMap.PNG)
 <img src="https://github.com/littlesi789/Music_Player_Arduino_SDCard/blob/master/pinMap.PNG" width="50%" height="50%">
 <img src="https://github.com/littlesi789/Music_Player_Arduino_SDCard/blob/master/wiring_diagram.jpg" width="50%" height="50%">
 
