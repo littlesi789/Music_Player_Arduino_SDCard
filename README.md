@@ -29,7 +29,11 @@ The output PWM signal for music can be defined in the main Arduino program.
 
 Speaker Connection
 --------
-*If you have a speaker, that will be much convenient. Use a jack socket and directly connect one channel and the ground to the socket.
-
+* If you have a speaker, that will be much convenient. Use a jack socket and directly connect one channel and the ground to the socket.
 <img src="https://cdn1.bigcommerce.com/server800/a8995/products/1032/images/3867/3.5MM_STEREO_JACK_black__86802.1501105214.1280.1280.jpg?c=2" width="50%" height="50%">
-*Otherwise, a LM386 Audio Amplifier will be helpful to amplify the audio signal and drive a speaker.
+Plug the cable into the socket, and enjoy the music.
+* Otherwise, a LM386 Audio Amplifier will be helpful to amplify the audio signal and drive a speaker.
+<img src="https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjItNKbqb3hAhWF0YMKHdn2DcEQjRx6BAgBEAU&url=https%3A%2F%2Fwww.banggood.com%2FLM386-Audio-Amplifier-Module-200-Times-Input-10K-Adjustable-Resistance-p-917571.html&psig=AOvVaw0x7O7XGOZ2DbWq6xPhrpom&ust=1554703815179332" width="50%" height="50%">
+I recommend dirctly using the module which can amplify at most 200 times and the output level is adjustable.
+
+
