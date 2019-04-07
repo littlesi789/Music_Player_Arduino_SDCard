@@ -26,3 +26,10 @@ The library pre-defined the pin used for data transfer with the SD card.
 
 The output PWM signal for music can be defined in the main Arduino program.
 **It is default to pin 9.**
+
+Speaker Connection
+--------
+*If you have a speaker, that will be much convenient. Use a jack socket and directly connect one channel and the ground to the socket.
+
+<img src="https://cdn1.bigcommerce.com/server800/a8995/products/1032/images/3867/3.5MM_STEREO_JACK_black__86802.1501105214.1280.1280.jpg?c=2" width="50%" height="50%">
+*Otherwise, a LM386 Audio Amplifier will be helpful to amplify the audio signal and drive a speaker.
